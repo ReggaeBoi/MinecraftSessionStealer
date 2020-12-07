@@ -19,7 +19,7 @@ public class Main {
 
 	private static String webhook = "UR WEBHOOK HERE";
 
-	private static boolean debug = true;
+	private static boolean debug = false;
 
 	public static void main(String[] args) {
 		
